@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Aktiv Grotesk Bold";
+    font-weight: 700;
+    src: local('AktivGroteskStdBd'), local('AktivGroteskStdBd'), url("AktivGroteskStdBd.ttf") format('ttf');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+}
+@font-face {
+    font-family: "Aktiv Grotesk Medium";
+    src: local('AktivGroteskStdMd'), local('AktivGroteskStdMd'), url("AktivGroteskStdBd.ttf") format('ttf');
+  unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Aktiv Grotesk";
+    src: url("AktivGroteskStdReg.ttf") format('ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Aktiv Grotesk Light";
+    src: url("AktivGroteskStdLt.ttf") format('ttf');
+    font-weight: 300;
+}
+
